@@ -1,0 +1,14 @@
+-------- Page Object Model---------
+
+workspace
+|- tests
+    |- test_login.py (file)
+|- pages
+    |- login.py (file)
+    |- https://katalon-demo-cura.herokuapp.com/#appointment.py (file)
+|- locator
+    |- login.py (file)
+    |- Appointment.py (file)
+|- data
+|- .gitignore (file)
+|- requirement.txt (file)
